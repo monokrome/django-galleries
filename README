@@ -1,0 +1,5 @@
+django galleries
+author: Brandon R. Stoner <monokrome@monokro.me>
+
+A simple application for managing image galleries in django.
+
