@@ -6,6 +6,6 @@ setup(name='django-galleries',
       author='Brandon R. Stoner',
       author_email='monokrome@monokro.me',
       url='http://monokro.me/',
-      packages=['django.contrib.galleries'],
+      packages=['galleries'],
 )
 
